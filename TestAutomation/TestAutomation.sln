@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AD.CoreDriver", "AD.CoreDriver\AD.CoreDriver.csproj", "{4C53E7FB-6A38-4ED9-A922-6B4A5A7AFD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C53E7FB-6A38-4ED9-A922-6B4A5A7AFD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C53E7FB-6A38-4ED9-A922-6B4A5A7AFD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C53E7FB-6A38-4ED9-A922-6B4A5A7AFD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C53E7FB-6A38-4ED9-A922-6B4A5A7AFD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62EBCD6-11B1-4CA3-ABE1-A5E9565F28B4}
+	EndGlobalSection
+EndGlobal
